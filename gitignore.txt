@@ -1,0 +1,11 @@
+/venv//
+env/
+
+__pycache__/
+*.pyc
+.env
+# .gitignore
+htmlcov/
+.coverage
+relatorio.html
+resultado.xml
